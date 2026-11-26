@@ -1,0 +1,86 @@
+[
+  {
+    "accession": "GSM8200498",
+    "file_kind": "barcodes",
+    "file_name": "GSM8200498_HLA19_T5_barcodes.tsv.gz",
+    "bytes": 21687,
+    "sha256": "69d7ea2e51e67ae770737fa92dfddb13cf2d571e812ecb1212da40841ca0c80a"
+  },
+  {
+    "accession": "GSM8200498",
+    "file_kind": "features",
+    "file_name": "GSM8200498_HLA19_T5_features.tsv.gz",
+    "bytes": 333437,
+    "sha256": "56ccaa9fb7dc436a19468eae68105811fa8f081af8e0da18f60ee7ff226407a6"
+  },
+  {
+    "accession": "GSM8200498",
+    "file_kind": "matrix",
+    "file_name": "GSM8200498_HLA19_T5_matrix.mtx.gz",
+    "bytes": 45654609,
+    "sha256": "8529486f4292d05d893b4d2221c69a806c6eb82374d2367e346b1d52ddcc1e9b"
+  },
+  {
+    "accession": "GSM8200500",
+    "file_kind": "barcodes",
+    "file_name": "GSM8200500_HLA08_T3_1_barcodes.tsv.gz",
+    "bytes": 19007,
+    "sha256": "a5a42f0973c8c70e4cbe6327b3749c7e0e34786a00aeb5a5e7fd75b973fc1f88"
+  },
+  {
+    "accession": "GSM8200500",
+    "file_kind": "features",
+    "file_name": "GSM8200500_HLA08_T3_1_features.tsv.gz",
+    "bytes": 333437,
+    "sha256": "798302e1e65d3f0bea31e7fd15cf4cf75ae4d473bec955faf003295927389e7a"
+  },
+  {
+    "accession": "GSM8200500",
+    "file_kind": "matrix",
+    "file_name": "GSM8200500_HLA08_T3_1_matrix.mtx.gz",
+    "bytes": 42479941,
+    "sha256": "6041bcd6564c25a0aab7e4e3f02dafe25fcdea02c632625521196e6d4114a16f"
+  },
+  {
+    "accession": "GSM8200502",
+    "file_kind": "barcodes",
+    "file_name": "GSM8200502_HLA08_T3_2_barcodes.tsv.gz",
+    "bytes": 31058,
+    "sha256": "35dba84ae13ed2498fe1a22382ddf1e4f4008137719957b36fcde4f495cd477f"
+  },
+  {
+    "accession": "GSM8200502",
+    "file_kind": "features",
+    "file_name": "GSM8200502_HLA08_T3_2_features.tsv.gz",
+    "bytes": 333437,
+    "sha256": "df3983cdbf5f35da8a9fbe387bf1db2ec2a63689631f9aabc2d08c245b746dca"
+  },
+  {
+    "accession": "GSM8200502",
+    "file_kind": "matrix",
+    "file_name": "GSM8200502_HLA08_T3_2_matrix.mtx.gz",
+    "bytes": 49855350,
+    "sha256": "a36576a8808188169f879e329d07b9d340472cf96f286a1abfff1d2e860f57e2"
+  },
+  {
+    "accession": "GSM8200499",
+    "file_kind": "contigs",
+    "file_name": "GSM8200499_HLA19_T5_VDJ_T_filtered_contig_annotations.csv.gz",
+    "bytes": 501007,
+    "sha256": "26b796e9f8aa52c2939804ca16ad98894fe7d23db5df97185ed3364c21ac8816"
+  },
+  {
+    "accession": "GSM8200501",
+    "file_kind": "contigs",
+    "file_name": "GSM8200501_HLA08_T3_1_VDJ_T_filtered_contig_annotations.csv.gz",
+    "bytes": 148437,
+    "sha256": "e48584a0d7634b9a27a835d19bbdb0d067ff13185e2c9bc6189a84122e084a3d"
+  },
+  {
+    "accession": "GSM8200503",
+    "file_kind": "contigs",
+    "file_name": "GSM8200503_HLA08_T3_2_VDJ_T_filtered_contig_annotations.csv.gz",
+    "bytes": 286743,
+    "sha256": "8ca988fdaab27b2933519c3b42c763867fd8584fd9f0982b6d81f03fcd3cec06"
+  }
+]

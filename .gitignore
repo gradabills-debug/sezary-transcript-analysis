@@ -1,0 +1,9 @@
+ctcl_public_data/
+ctcl_audit_results/
+results/
+__pycache__/
+*.pyc
+figure_source/**/Figure_*.png
+figure_source/**/Figure_*.pdf
+figure_source/**/Figure_*.svg
+figure_source/**/Figure_*.tiff
