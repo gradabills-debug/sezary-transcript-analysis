@@ -30,13 +30,17 @@ standard library once the cell-level input is available.
 
 ## Run from the accompanying supplementary data
 
-The journal companion file Sezary_Data.zip contains the selected cell-level
-input and previously verified numerical outputs. Extract it, then supply its
-input path to the summary script:
+The journal companion file Sezary_Data.xlsx contains the selected cell-level
+input, numerical outputs, and source provenance in separate worksheets.
+Open the Cell_data worksheet in Excel and save that sheet as a UTF-8 CSV,
+retaining the original headers and paired_cdr3_aa text. Then run:
 
 ```
-python reproduce_submission.py --cells /path/to/Sezary_Data/data/cell_marker_audit.csv.gz
+python reproduce_submission.py --cells /path/to/cell_marker_audit.csv
 ```
+
+Earlier data-only ZIP packages contain the same selected-cell input as
+Sezary_Data/data/cell_marker_audit.csv.gz and remain compatible with the script.
 
 The packaged input contains only the 7,929 selected SS cells and relevant
 columns. The public reconstruction exports all cells from the three libraries;
